@@ -1,0 +1,28 @@
+body {
+    border: 2px solid green;
+    margin: 0;
+    padding: 20px;
+}
+
+.site-main {
+    border: 2px solid blue;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.black-border {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: left;
+}
+
+
+.mb-only {
+    margin-bottom: 20px;
+}
+
+.site-main h1 {
+    font-size: 1rem;
+    font-weight: 500;
+}
