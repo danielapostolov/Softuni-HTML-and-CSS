@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+body {
+    background: #EEE;
+}
+
+.container{
+    display: flex;
+}
+
+.nav-menu{
+    width: 90%;
+    background: rgb(199, 196, 196);
+    display: flex;
+    list-style: none;
+    padding: 5px;
+    margin: 30px auto;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 3px;
+    border: 1px solid rgb(134, 129, 129);
+    gap: 5px;
+}
+
+.nav-item{
+    background-color: #FFF;
+    border: 1px solid rgb(134, 129, 129);
+    color: orange;
+    border-radius: 3px;
+    padding: 6px;
+}
+
