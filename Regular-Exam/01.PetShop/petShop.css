@@ -79,18 +79,19 @@ body {
     display: flex;
     flex-direction: column;
     background: #f0f0f0;
-    padding: 20px;
+    padding: 20px 20px 10px 20px;
+    gap: 10px;
+
 }
 
 .main-bottom p {
     font-size: 0.8rem;
-    color: #5a5a5a
+    color: #5a5a5a;
 }
 
 .links {
     display: flex;
     justify-content: center;
-    margin-bottom: 10px;
 }
 
 .links a{
